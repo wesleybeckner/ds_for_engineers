@@ -5,6 +5,7 @@ __pycache__/
 
 # machien learning
 *.h5
+casestudies/output/
 
 # C extensions
 *.so
