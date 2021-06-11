@@ -18,9 +18,9 @@ Course 1: Build Your Base
 	   * DSE C1 S6: Inferential Statistics (Product Margin Case Study)
 	   * DSE C1 S7: Product Quality Case Study
 
-<p align=center>
+
 <img src="https://raw.githubusercontent.com/wesleybeckner/ds_for_engineers/main/assets/C1/C1_Schedule.png" width=600></img>
-</p>
+
 <br>
 <br>
 
