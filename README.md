@@ -67,7 +67,7 @@ Learning content for GIX Data Science for Engineers
 	   *	DSE C3 S7: Dashboard Case Study, Casting Defect Detection
 
 <p align=center>
-<img src="https://raw.githubusercontent.com/wesleybeckner/ds_for_engineers/main/assets/c3schedule.png" width=600></img>
+<img src="https://raw.githubusercontent.com/wesleybeckner/ds_for_engineers/main/assets/C3/c3schedule.png" width=600></img>
 </p>
 <br>
 <br>
