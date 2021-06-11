@@ -1,8 +1,10 @@
 # Data Science for Engineers
 Learning content for GIX Data Science for Engineers
 
-Series Overview
-Course 1: Build Your Base
+## Series Overview
+
+### Course 1: Build Your Base
+
 *	Data Science Topics (CHEME 545; DSMCER)
 	   * introduction to python; lists, dictionaries, and flow control; functions and pandas; visualization: matplotlib, seaborn and pandas; supervised learning: linear/log regression
 *	Software Development Topics (CHEME 546; SEDS)
@@ -18,13 +20,14 @@ Course 1: Build Your Base
 	   * DSE C1 S6: Inferential Statistics (Product Margin Case Study)
 	   * DSE C1 S7: Product Quality Case Study
 
-
+<!-- <p align=center>
 <img src="https://raw.githubusercontent.com/wesleybeckner/ds_for_engineers/main/assets/C1/C1_Schedule.png" width=600></img>
-
+</p>
 <br>
-<br>
+<br> -->
 
-Course 2: Build Your Model
+### Course 2: Build Your Model
+
 *	Data Science Topics (CHEME 545; DSMCER)
 		*	Supervised learning: classification; resampling methods; model selection and regularization; beyond regression coefficients: tree-based methods and support vector machines; unsupervised learning: clustering and dimensionality reduction
 *	Software Development Topics (CHEME 546; SEDS)
@@ -46,7 +49,8 @@ Course 2: Build Your Model
 <br>
 <br>
 
-Course 3: Leverage Your Model
+### Course 3: Leverage Your Model
+
 *	Data Science Topics (CHEME 545; DSMCER)
 		*	Multilayer perceptron and feed forward neural networks;
 *	Software Development Topics (CHEME 546; SEDS)
