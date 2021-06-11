@@ -20,6 +20,7 @@ Course 1: Build Your Base
 
 <p align=center>
 <img src="https://raw.githubusercontent.com/wesleybeckner/ds_for_engineers/main/assets/C1/C1_Schedule.png" width=600></img>
+</p>
 <br>
 <br>
 
@@ -41,6 +42,7 @@ Course 2: Build Your Model
 
 <p align=center>
 <img src="https://raw.githubusercontent.com/wesleybeckner/ds_for_engineers/main/assets/C2/schedule.png" width=600></img>
+</p>
 <br>
 <br>
 
@@ -62,5 +64,6 @@ Course 3: Leverage Your Model
 
 <p align=center>
 <img src="https://raw.githubusercontent.com/wesleybeckner/ds_for_engineers/main/assets/c3schedule.png" width=600></img>
+</p>
 <br>
 <br>
